@@ -22,7 +22,7 @@ the game has 4 skills with different abilities:
 |name|ability|cooldown|
 |---|---|---|
 |(1st) 1up|level up a tile of your color by +1. 1upping a level 9 tile to level 10 will deal -2 damage to all neighboring enemies, resetting itself back to level 7|20s|
-|(2nd) explode|deal -1 level of damage to all neighboring enemy tiles.|30s|
+|(2nd) explode|deal -1 level of damage to all neighboring enemy tiles.|40s|
 |(3rd) doubling|give 1 of your tiles "double" status. when attacking/defending, double your total damage|60s|
 |(4th) advantage|give 1 of your tiles "golden" status. when attacking/defending, roll twice and take the highest of 2 rolls|60s|
 
